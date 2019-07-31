@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/ReactHomework1/static/js/main.baaea17c.chunk.js",
+    "main.js.map": "/ReactHomework1/static/js/main.baaea17c.chunk.js.map",
+    "runtime~main.js": "/ReactHomework1/static/js/runtime~main.77e00f8e.js",
+    "runtime~main.js.map": "/ReactHomework1/static/js/runtime~main.77e00f8e.js.map",
+    "static/js/2.884c28c3.chunk.js": "/ReactHomework1/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/ReactHomework1/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/ReactHomework1/index.html",
+    "precache-manifest.0a43f509857eb3dbabdf8a96cf93102c.js": "/ReactHomework1/precache-manifest.0a43f509857eb3dbabdf8a96cf93102c.js",
+    "service-worker.js": "/ReactHomework1/service-worker.js"
+  }
+}
